@@ -33,18 +33,3 @@ func main() {
 	fmt.Println(differenceOfSum(num))
 
 }
-
-// var sum int
-
-// 	num := "123"
-
-// 	for _, s := range num {
-// 		digit, err := strconv.Atoi(string(s))
-// 		if err != nil {
-// 			fmt.Println("Error converting:", err)
-// 			continue
-// 		}
-// 		sum += digit
-// 		// fmt.Println(s)
-// 	}
-// 	fmt.Println(sum)
