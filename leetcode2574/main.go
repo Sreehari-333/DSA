@@ -4,7 +4,6 @@ import "fmt"
 
 func leftRightDifference(nums []int) []int {
 
-	// answers := []int{}
 	leftSum := []int{}
 	rightSum := make([]int, len(nums))
 	lSum := 0
@@ -29,7 +28,7 @@ func leftRightDifference(nums []int) []int {
 		}
 	}
 
-	return rightSum
+	return result
 }
 
 func main() {
