@@ -4,7 +4,7 @@ import "fmt"
 
 func maxSubArray(nums []int) int {
 
-	currentSum, maxSum := 0, -10000
+	currentSum, maxSum := 0, -100000
 
 	for i := 0; i < len(nums); i++ {
 		currentSum += nums[i]
