@@ -1,29 +1,27 @@
 package main
 
-// import "fmt"
+import "fmt"
 
-// func maxSubArray(nums []int) int {
+func maxSubArray(nums []int) int {
 
-// 	currentSum, maxSum := nums[0], nums[0]
-// 	// tempStart := 0
+	currentSum, maxSum := 0, 0
 
-// 	for i := 1; i < len(nums); i++ {
-// 		if currentSum < 0 {
-// 			currentSum = nums[i]
-// 			tempStart = i
-// 		} else {
-// 			currentSum += nums[i]
-// 		}
-// 		if currentSum > maxSum {
-// 			maxSum = currentSum
+	for i := 0; i < len(nums); i++ {
+		currentSum += nums[i]
 
-// 		}
-// 	}
-// 	return maxSum
-// }
+		if maxSum < currentSum {
+			maxSum = currentSum
+		}
 
-// func main() {
+		if currentSum < 0 {
+			currentSum = 0
+		}
+	}
+	return maxSum
+}
 
-// 	nums := []int{-2, 1, -3, 4, -1, 2, 1, -5, 4}
-// 	fmt.Println(maxSubArray(nums))
-// }
+func main() {
+
+	nums := []int{5, 4, -1, 7, 8}
+	fmt.Println(maxSubArray(nums))
+}
