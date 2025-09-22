@@ -4,25 +4,28 @@ import "fmt"
 
 func maxFrequencyElements(nums []int) int {
 
-	seen := make(map[int]bool)
-	count := 0
+	freq := make(map[int]int)
+	maxFreq := 0
+	sum := 0
 
 	for _, num := range nums {
-		if !seen[num] {
-			seen[num] = true
-		} else {
-			count += 2
+		freq[num]++
+		if freq[num] > maxFreq {
+			maxFreq = freq[num]
 		}
 	}
 
-	if count == 0 {
-		return len(nums)
+	for _, val := range freq {
+		if val == maxFreq {
+			sum += val
+		}
 	}
-	return count
+
+	return sum
 }
 
 func main() {
 
-	nums := []int{1, 2, 3, 4, 5}
+	nums := []int{10, 12, 11, 9, 6, 19, 11}
 	fmt.Println(maxFrequencyElements(nums))
 }
