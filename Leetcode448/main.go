@@ -2,18 +2,24 @@ package main
 
 import (
 	"fmt"
-	"sort"
 )
 
 func findDisappearedNumbers(nums []int) []int {
 
-	sort.Ints(nums)
 	result := []int{}
-	i := nums[0]
+	seen := make(map[int]bool)
 
-	for i < len(nums) {
-
+	for _, num := range nums {
+		seen[num] = true
 	}
+
+	for i := 1; i <= len(nums); i++ {
+		if !seen[i] {
+			result = append(result, i)
+		}
+	}
+
+	return result
 }
 
 func main() {
