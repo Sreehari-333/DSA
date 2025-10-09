@@ -4,5 +4,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0742-to-lower-case](https://github.com/Sreehari-333/DSA/tree/master/0742-to-lower-case) |
 | [2235-capitalize-the-title](https://github.com/Sreehari-333/DSA/tree/master/2235-capitalize-the-title) |
 <!---LeetCode Topics End-->
