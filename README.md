@@ -17,9 +17,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sreehari-333/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [2083-three-divisors](https://github.com/Sreehari-333/DSA/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Sreehari-333/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/Sreehari-333/DSA/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Sreehari-333/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/Sreehari-333/DSA/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
