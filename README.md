@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Sreehari-333/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sreehari-333/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Sreehari-333/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Sreehari-333/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/Sreehari-333/DSA/tree/master/2083-three-divisors) |
+## Hash Table
+|  |
+| ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Sreehari-333/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 <!---LeetCode Topics End-->
