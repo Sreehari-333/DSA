@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Sreehari-333/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Sreehari-333/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sreehari-333/DSA/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [4058-compute-alternating-sum](https://github.com/Sreehari-333/DSA/tree/master/4058-compute-alternating-sum) |
 ## Math
 |  |
 | ------- |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sreehari-333/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+## Simulation
+|  |
+| ------- |
+| [4058-compute-alternating-sum](https://github.com/Sreehari-333/DSA/tree/master/4058-compute-alternating-sum) |
 <!---LeetCode Topics End-->
