@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sreehari-333/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Sreehari-333/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Sreehari-333/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Sreehari-333/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sreehari-333/DSA/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [4058-compute-alternating-sum](https://github.com/Sreehari-333/DSA/tree/master/4058-compute-alternating-sum) |
 ## Math
@@ -36,8 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sreehari-333/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Sreehari-333/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Simulation
 |  |
 | ------- |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Sreehari-333/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [4058-compute-alternating-sum](https://github.com/Sreehari-333/DSA/tree/master/4058-compute-alternating-sum) |
+## Sorting
+|  |
+| ------- |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Sreehari-333/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 <!---LeetCode Topics End-->
