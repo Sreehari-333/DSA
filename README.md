@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sreehari-333/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0742-to-lower-case](https://github.com/Sreehari-333/DSA/tree/master/0742-to-lower-case) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Sreehari-333/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Sreehari-333/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2235-capitalize-the-title](https://github.com/Sreehari-333/DSA/tree/master/2235-capitalize-the-title) |
 ## Array
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sreehari-333/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sreehari-333/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Sreehari-333/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Sreehari-333/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Sreehari-333/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Sreehari-333/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sreehari-333/DSA/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Sreehari-333/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Sreehari-333/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [4058-compute-alternating-sum](https://github.com/Sreehari-333/DSA/tree/master/4058-compute-alternating-sum) |
 ## Sorting
