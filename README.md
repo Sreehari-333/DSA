@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sreehari-333/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Sreehari-333/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0742-to-lower-case](https://github.com/Sreehari-333/DSA/tree/master/0742-to-lower-case) |
 | [2128-reverse-prefix-of-word](https://github.com/Sreehari-333/DSA/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sreehari-333/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sreehari-333/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/Sreehari-333/DSA/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Sreehari-333/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [2128-reverse-prefix-of-word](https://github.com/Sreehari-333/DSA/tree/master/2128-reverse-prefix-of-word) |
 ## String Matching
 |  |
