@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sreehari-333/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Sreehari-333/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2235-capitalize-the-title](https://github.com/Sreehari-333/DSA/tree/master/2235-capitalize-the-title) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sreehari-333/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Array
 |  |
 | ------- |
@@ -34,11 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/Sreehari-333/DSA/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Sreehari-333/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sreehari-333/DSA/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sreehari-333/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/Sreehari-333/DSA/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Sreehari-333/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sreehari-333/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sreehari-333/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Sreehari-333/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sreehari-333/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [4058-compute-alternating-sum](https://github.com/Sreehari-333/DSA/tree/master/4058-compute-alternating-sum) |
 ## Sorting
 |  |
@@ -85,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Sreehari-333/DSA/tree/master/0349-intersection-of-two-arrays) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sreehari-333/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
