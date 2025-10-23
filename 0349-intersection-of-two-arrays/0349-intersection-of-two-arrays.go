@@ -3,16 +3,16 @@ func intersection(nums1 []int, nums2 []int) []int {
 	intersect := make(map[int]bool)
 	result := []int{}
 
-	for i := 0; i < len(nums1); i++ {
-		for j := 0; j < len(nums2); j++ {
-			if nums1[i] == nums2[j] {
-				intersect[nums1[i]] = true
-			}
-		}
+	for _, num := range nums1 {
+		intersect[num] = true
 	}
 
-	for key := range intersect {
-		result = append(result, key)
+	for _, num := range nums2 {
+
+		if intersect[num] {
+			result = append(result, num)
+			intersect[num] = false
+		}
 	}
 	return result
 }
