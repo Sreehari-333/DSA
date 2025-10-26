@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sreehari-333/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sreehari-333/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0941-sort-array-by-parity](https://github.com/Sreehari-333/DSA/tree/master/0941-sort-array-by-parity) |
+| [1019-squares-of-a-sorted-array](https://github.com/Sreehari-333/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sreehari-333/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sreehari-333/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Sreehari-333/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Sreehari-333/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0941-sort-array-by-parity](https://github.com/Sreehari-333/DSA/tree/master/0941-sort-array-by-parity) |
+| [1019-squares-of-a-sorted-array](https://github.com/Sreehari-333/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Sreehari-333/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Sliding Window
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Sreehari-333/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Sreehari-333/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0941-sort-array-by-parity](https://github.com/Sreehari-333/DSA/tree/master/0941-sort-array-by-parity) |
+| [1019-squares-of-a-sorted-array](https://github.com/Sreehari-333/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [2128-reverse-prefix-of-word](https://github.com/Sreehari-333/DSA/tree/master/2128-reverse-prefix-of-word) |
 ## String Matching
 |  |
