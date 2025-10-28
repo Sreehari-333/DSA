@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sreehari-333/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Sreehari-333/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Sreehari-333/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Sreehari-333/DSA/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sreehari-333/DSA/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [4058-compute-alternating-sum](https://github.com/Sreehari-333/DSA/tree/master/4058-compute-alternating-sum) |
 ## Math
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sreehari-333/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sreehari-333/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Sreehari-333/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Sreehari-333/DSA/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Simulation
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Sreehari-333/DSA/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sreehari-333/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Sreehari-333/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Sreehari-333/DSA/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Sliding Window
 |  |
 | ------- |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Sreehari-333/DSA/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sreehari-333/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [2128-reverse-prefix-of-word](https://github.com/Sreehari-333/DSA/tree/master/2128-reverse-prefix-of-word) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Sreehari-333/DSA/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## String Matching
 |  |
 | ------- |
