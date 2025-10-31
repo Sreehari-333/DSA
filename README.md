@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sreehari-333/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2083-three-divisors](https://github.com/Sreehari-333/DSA/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Sreehari-333/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2507-number-of-common-factors](https://github.com/Sreehari-333/DSA/tree/master/2507-number-of-common-factors) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sreehari-333/DSA/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sreehari-333/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
@@ -45,11 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2083-three-divisors](https://github.com/Sreehari-333/DSA/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Sreehari-333/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2507-number-of-common-factors](https://github.com/Sreehari-333/DSA/tree/master/2507-number-of-common-factors) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sreehari-333/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/Sreehari-333/DSA/tree/master/2083-three-divisors) |
+| [2507-number-of-common-factors](https://github.com/Sreehari-333/DSA/tree/master/2507-number-of-common-factors) |
 ## Hash Table
 |  |
 | ------- |
